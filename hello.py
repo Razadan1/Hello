@@ -1,0 +1,6 @@
+print("Welcome !")
+print("Please Log in to your account.")
+email = input("Email: ")
+password = input("Password: ")
+print("Welcome User!")
+print("Resume Module")
